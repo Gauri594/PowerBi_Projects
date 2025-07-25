@@ -1,6 +1,6 @@
 # PowerBi_Projects
 
-Project 1 Data-Analytics-project
+Project 1: Data-Analytics-project
 
 Welcome to my official repository for the Data Analytics Project. This repository contains all the projects I completed.
 
