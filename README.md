@@ -8,4 +8,5 @@ Track: Data Analytics Projects Completed: 1 Tools used :PowerBi
 
 Project List Project 1: Pizza Sales Analysis
 
-Connect With Me: LinkedIn: https://www.linkedin.com/in/gauri-gaikwad-5b71832b4 GitHub: https://github.com/Gauri594 Built with PowerBi and Passion!
+Connect With Me: LinkedIn: https://www.linkedin.com/in/gauri-gaikwad-5b71832b4 
+GitHub: https://github.com/Gauri594 Built with PowerBi and Passion!
